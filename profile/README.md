@@ -10,7 +10,3 @@ Vossaweb builds and improves modern websites with a focus on usability, accessib
 - Redesign and modernization
 - Front-end development
 - Maintenance and improvements
-
----
-
-Vossaweb is operated by Hirth Webutvikling.
